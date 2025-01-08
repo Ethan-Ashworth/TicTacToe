@@ -18,7 +18,7 @@ This is a simple **Tic Tac Toe** game implemented in Java using the Swing framew
 
 ## How to Run
 ```markdown
-1. Download release with included JAR file
+1. Download the release with the included JAR file
 2. Run JAR file (ensure to have Java 8 downloaded on computer)
 ```
 
