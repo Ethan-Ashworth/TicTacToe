@@ -40,12 +40,15 @@ The project is organized into three primary classes:
 ## Screenshots
 
 **Initial UI**:
+
 ![img.png](screenshots/img.png)
 
 **UI after moves**
+
 ![img_1.png](screenshots/img_1.png)
 
 **Win animation & Leaderboard update**
+
 ![img_2.png](screenshots/img_2.png)
 
 ## Contributing
